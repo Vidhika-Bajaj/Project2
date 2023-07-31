@@ -38,11 +38,11 @@ contract MyToken {
 
 ```
 
-To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.4" (or another compatible version), and then click on the "Compile myToken.sol" button.
+To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.4" (or another compatible version), and then click on the "Compile project.sol" button.
 
-Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "myToken" contract from the dropdown menu, and then click on the "Deploy" button. 
+Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "MyToken" contract from the dropdown menu, and then click on the "Deploy" button. 
 
-Once the contract is deployed, you can interact with it by calling the mint and burn function and pasting the account address and the value that has to be stored or deducted. Click on the "myToken" contract in the left-hand sidebar, and then click on the "mint" function. Finally, click on the "transact" button to execute the function and retrieve the tokenSupply and balance amount.
+Once the contract is deployed, you can interact with it by calling the mint and burn function and pasting the account address and the value that has to be stored or deducted. Click on the "MyToken" contract in the left-hand sidebar, and then click on the "mint" function. Finally, click on the "transact" button to execute the function and retrieve the tokenSupply and balance amount.
 
 ## Authors
 Vidhika Bajaj
